@@ -1,8 +1,9 @@
 # 💫 About Me
 
-<h1 align="center">Hi, I'm Rick 👋</h1>
+<h1 align="center">Hi, I'm Anindyadyuti Chel👋</h1>
 
 <p align="center">
+🙋🏽 PEOPLE LOVE TO CALL ME "RICK"<br>
 🎓 ECE Student at Lovely Professional University (LPU)<br>
 💻 Passionate about Python, AI, and Full-Stack Development<br>
 🏃 One of the strongest DSA Core Students<br>
